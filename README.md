@@ -181,15 +181,15 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**[Your Name]**
+  Dhanya Lokesh
 - AWS Certified
 - BCA Graduate
 
 ## 📧 Contact
 
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: ldhanya011@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dhanya-l-0aa510354
+- GitHub: [@DhanyaLokeah-dev](https://github.com/DhanyaLokesh-dev)
 
 ---
 
